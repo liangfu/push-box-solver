@@ -1,1 +1,8 @@
-#
+source code can be compiled by the following steps:
+
+1. download cmake can install cmake program correctly.
+2. configure project command:
+	$cmake .
+3. use generated project file to build the project
+
+Please refer to cmake reference for more details.
